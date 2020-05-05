@@ -1,7 +1,4 @@
 /** ReadBinaryTree1Test.java
- *Alexandro Drogo
- * 11/04/2019
- * CIS 2168
  * Description: Reads a file and the program creates a binary tree in post, in, and pre-order. it also finds the size and depth of the tree.
  */
 package assign7_template;
